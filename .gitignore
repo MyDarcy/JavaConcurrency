@@ -22,9 +22,15 @@
 hs_err_pid*
 
 
-# Gradle:
-.idea/gradle.xml
+# idea:
 .idea/
 
 # IntelliJ
 /out/
+
+# 
+*.iml
+
+
+
+
