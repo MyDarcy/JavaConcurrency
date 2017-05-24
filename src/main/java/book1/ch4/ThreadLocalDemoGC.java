@@ -1,4 +1,4 @@
-package main.java.book1.ch4;
+package book1.ch4;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

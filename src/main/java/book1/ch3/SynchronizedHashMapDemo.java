@@ -1,4 +1,4 @@
-package main.java.book1.ch3;
+package book1.ch3;
 
 import com.sun.xml.internal.ws.policy.privateutil.PolicyUtils;
 

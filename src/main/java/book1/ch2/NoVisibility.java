@@ -1,4 +1,4 @@
-package main.java.book1.ch2;
+package ook1.ch2;
 
 /**
  * Author by darcy

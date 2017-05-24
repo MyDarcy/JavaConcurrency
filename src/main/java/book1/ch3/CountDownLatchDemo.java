@@ -1,4 +1,4 @@
-package main.java.book1.ch3;
+package book1.ch3;
 
 import java.util.Random;
 import java.util.concurrent.CountDownLatch;

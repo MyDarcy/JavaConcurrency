@@ -1,6 +1,6 @@
-package main.java.book1.ch3;
+package book1.ch3;
 
-import main.java.book1.ch2.SyncDemo1;
+import book1.ch2.SyncDemo1;
 
 import java.util.Random;
 import java.util.concurrent.locks.Lock;

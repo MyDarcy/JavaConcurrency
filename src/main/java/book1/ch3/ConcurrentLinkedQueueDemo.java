@@ -1,10 +1,10 @@
-package main.java.book1.ch3;
+package book1.ch3;
 
 import java.util.*;
 import java.util.concurrent.*;
 
-import static main.java.book1.ch3.ConconrrentHashMapDemo.hashTable;
-import static main.java.book1.ch3.ConconrrentHashMapDemo.synchronizedHashMap;
+import static book1.ch3.ConconrrentHashMapDemo.hashTable;
+import static book1.ch3.ConconrrentHashMapDemo.synchronizedHashMap;
 
 /**
  * Author by darcy

@@ -1,4 +1,4 @@
-package main.java.book1.ch4;
+package book1.ch4;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
@@ -11,7 +11,7 @@ public class AtomicIntegerDemo {
     static AtomicInteger atomicInteger = new AtomicInteger();
 
     public static class AddTask implements Runnable {
-        @Override
+
         public void run() {
             for (int i = 0; i < 10000; i++) {
                 atomicInteger.incrementAndGet();

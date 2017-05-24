@@ -1,4 +1,4 @@
-package main.java.book1.ch4;
+package book1.ch4;
 
 import java.util.Random;
 import java.util.concurrent.*;

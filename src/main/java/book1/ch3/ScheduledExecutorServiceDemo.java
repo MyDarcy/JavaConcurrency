@@ -1,4 +1,4 @@
-package main.java.book1.ch3;
+package book1.ch3;
 
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;

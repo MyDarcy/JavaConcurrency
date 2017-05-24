@@ -1,4 +1,4 @@
-package main.java.book1.ch2;
+package book1.ch2;
 
 import java.util.HashMap;
 import java.util.Map;
